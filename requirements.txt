@@ -1,0 +1,8 @@
+tensorflow
+numpy
+matplotlib
+Pillow
+scikit-learn
+huggingface_hub
+google-generativeai
+opencv-python
